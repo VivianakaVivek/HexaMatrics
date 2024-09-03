@@ -6,7 +6,7 @@ This README provides an overview of the project, including team details, relevan
 
 **Team Name:** Hexametry
 
-**Team Leader:** [@USERNAME](https://github.com/USERNAME)
+**Team Leader:** *Diva Bhattacharya*(https://github.com/Divabhattacharya)
 
 **Team Members:**
 - **Vivek Goswami** - 2023UEE4605- [@USERNAME](https://github.com/VivianakaVivek)//main id where the file has been upoloaded
