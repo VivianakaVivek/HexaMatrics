@@ -1,4 +1,5 @@
-# PS Chosen for Internal Hackathon (File Name from the drive folder)
+# PS Chosen for Internal Hackathon (File Name from the drive folder
+//our laptops crashed and some seniors backed out so had to create everything from start so it took time and android studio kept crashing in our laptops at last we even reinstalled everything nothing worked but we have the demo video only for a short interval of time plz build the app in your pc and consider we have attached screenshots of the figma design as well we created and wanted to integrate in our project could not do it due to lack of time plz consider this project 
 
 This README provides an overview of the project, including team details, relevant links, tasks completed, tech stack, key features, and steps to run the project locally.
 
@@ -9,7 +10,7 @@ This README provides an overview of the project, including team details, relevan
 **Team Leader:** *Diva Bhattacharya*(https://github.com/Divabhattacharya)
 
 **Team Members:**
-- **Vivek Goswami** - 2023UEE4605- [@USERNAME](https://github.com/VivianakaVivek)//main id where the file has been upoloaded
+- **Vivek Goswami** - 2023UEE4605- [@USERNAME][(https://github.com/VivianakaVivek)](https://github.com/VivianakaVivek/HexaMatrics)//main id where the file has been upoloaded
 - **Diva Bhattacharya** - 2023UEE6547 - [@USERNAME](https://github.com/Divabhattacharya)
 - **Juhi Jayswal** - 2022UPD9514 - [@USERNAME](https://github.com/JUhipugxr)
 - **Ekta Bansal** - 2023UCA2142 - [@USERNAME](https://github.com/EktaGupta98)
